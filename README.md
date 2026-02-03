@@ -21,9 +21,15 @@
 
 ---
 
-### 💌 Get in touch
-- I prefer keeping my inbox clean, so feel free to open an issue or reach out via GitHub discussions!
-- **Thanks for stopping by!** ✨
+### 🛠️ Exploration & Tech Stack
+- **OS:** Ubuntu / LoongOS
+- **Infrastructure:** Docker, Nginx, Cloudflare Tunneling
+- **Hardware:** LoongArch, Raspberry Pi, ARM-based systems
+- **Status:** Exploring the intersection of high-performance Java & Kotlin and hardware.
+
+<br/>
+
+> **"Code is art, and the server is my canvas."** > *Thanks for stopping by!* ✨
 <!--
 **YunMengzz/YunMengzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
