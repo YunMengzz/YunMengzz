@@ -15,7 +15,7 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+![Metrics](/github-metrics.svg)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YunMengzz)
 
 ---
